@@ -1,4 +1,6 @@
 /*
+Problem Statement:
+-----------------
 Given an array Arr of N positive integers, find K largest elements from the array.  The output elements should be printed in decreasing order.
 
 Example 1:
@@ -25,6 +27,9 @@ Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(K*logK)
 */
 
+// Link --> https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1#
+
+// Code:
 class Solution{
 public:	
 	vector <int> kLargest(int a[], int n, int k) 
