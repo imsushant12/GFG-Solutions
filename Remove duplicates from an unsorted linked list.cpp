@@ -66,3 +66,24 @@ class Solution
         return head;
     }
 };
+
+/*
+// Other way (using previous and current-node pointer): 
+Node *removeDuplicates(Node *head)
+{
+    Node *newHead = head;
+    
+    while(newHead->next != NULL)
+    {
+        if(newHead->data == newHead->next->data)
+        {
+            newHead->next = newHead->next->next;
+        }
+        else
+        {
+            newHead = newHead->next;
+        }
+    }
+    return head;
+}
+*/
