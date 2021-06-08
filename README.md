@@ -1,2 +1,2 @@
 # GeeksForGeeks Solution
-## Solutions to the DS-Algo Sheet Problems by Love Babbar.
+## Solutions to the Data Strucures and Algorithm Problems.
