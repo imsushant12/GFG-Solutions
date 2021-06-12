@@ -50,6 +50,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Leaf at Same Level [CPP]](Leaf_at_Same_Level.cpp)
 - [Left View of Binary Tree [CPP]](Left_View_of_Binary_Tree.cpp)
 - [Level Order Traversal [CPP]](Level_Order_Traversal.cpp)
+- [Lowest Common Ancestor in BST [CPP]](Lowest_Common_Ancestor_in_BST.cpp)
 - [Lowest Common Ancestor in a Binary Tree [CPP]](Lowest_Common_Ancestor_in_a_Binary_Tree.cpp)
 - [Maximum and Minimum of Array Elements [CPP]](Maximum_and_Minimum_of_Array_Elements.cpp)
 - [Maximum level sum in Binary Tree [CPP]](Maximum_level_sum_in_Binary_Tree.cpp)
