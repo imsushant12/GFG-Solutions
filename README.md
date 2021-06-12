@@ -65,6 +65,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Number of 1 Bits [CPP]](Number_of_1_Bits.cpp)
 - [Pairs with given sum in doubly linked list [CPP]](Pairs_with_given_sum_in_doubly_linked_list.cpp)
 - [Palindrome String [CPP]](Palindrome_String.cpp)
+- [Populate Inorder Successor for all nodes [CPP]](Populate_Inorder_Successor_for_all_nodes.cpp)
 - [Postorder of Tree Iterative-1 using Stack [CPP]](Postorder_of_Tree_Iterative-1_Stack.cpp)
 - [Postorder of Tree Iterative-2 using Stack [CPP]](Postorder_of_Tree_Iterative-2_Stack.cpp)
 - [Predecessor and Successor [CPP]](Predecessor_and_Successor.cpp)
