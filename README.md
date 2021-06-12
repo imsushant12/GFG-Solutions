@@ -21,6 +21,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Check if Linked List is Palindrome [CPP]](Check_if_Linked_List_is_Palindrome.cpp)
 - [Common elements [CPP]](Common_elements.cpp)
 - [Construct Binary Tree from String with bracket [CPP]](Construct_Binary_Tree_from_String_with_bracket.cpp)
+- [Construct BST from preorder [CPP]](Construct_BST_from_preorder.cpp)
 - [Construct Tree from Inorder and Preorder [CPP]](Construct_Tree_from_Inorder&Preorder.cpp)
 - [Count Inversions [CPP]](Count_Inversions.cpp)
 - [Count Squares [CPP]](Count_Squares.cpp)
