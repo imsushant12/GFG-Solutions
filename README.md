@@ -24,6 +24,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Construct Binary Tree from String with bracket [CPP]](Construct_Binary_Tree_from_String_with_bracket.cpp)
 - [Construct BST from preorder [CPP]](Construct_BST_from_preorder.cpp)
 - [Construct Tree from Inorder and Preorder [CPP]](Construct_Tree_from_Inorder&Preorder.cpp)
+- [Convert a normal BST to Balanced BST [CPP]](Convert_normal_BST_to_Balanced_BST.cpp)
 - [Count Inversions [CPP]](Count_Inversions.cpp)
 - [Count Squares [CPP]](Count_Squares.cpp)
 - [Count pairs with given sum [CPP]](Count_pairs_with_given_sum.cpp)
