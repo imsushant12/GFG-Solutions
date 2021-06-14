@@ -55,6 +55,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Lowest Common Ancestor in a Binary Tree [CPP]](Lowest_Common_Ancestor_in_a_Binary_Tree.cpp)
 - [Maximum and Minimum of Array Elements [CPP]](Maximum_and_Minimum_of_Array_Elements.cpp)
 - [Maximum level sum in Binary Tree [CPP]](Maximum_level_sum_in_Binary_Tree.cpp)
+- [Merge two BST's [CPP]](Merge_two_BST.cpp)
 - [Middle of Three [CPP]](Middle_of_Three.cpp)
 - [Min distance between two given nodes of a Binary Tree [CPP]](Min_distance_between_two_given_nodes_of_a_Binary_Tree.cpp)
 - [Minimum element in BST [CPP]](Minimum_element_in_BST.cpp)
