@@ -8,6 +8,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 - [Add 1 to number represented by Linked List [CPP]](Add_1_to_number_represented_by_linked_list.cpp)
 - [Add two numbers represented by linked lists [CPP]](Add_two_numbers_represented_by_linked_lists.cpp)
+- [Array to BST [CPP]](Array_to_BST.cpp)
 - [Binary Tree to BST [CPP]](Binary_Tree_to_BST.cpp)
 - [Binary Tree to DLL [CPP]](Binary_Tree_to_DLL.cpp)
 - [Binary Tree to DLL [JAVA]](Binary_Tree_to_DLL.java)
