@@ -62,6 +62,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Intersection Point in Y Shaped Linked Lists Approach-2 [CPP]](Intersection_Point_in_Y_Shaped_Linked_Lists_Approach-2.cpp)
 - [Intersection of two arrays [CPP]](Intersection_of_two_arrays.cpp)
 - [Intersection of two sorted Linked lists [CPP]](Intersection_of_two_sorted_Linked_lists.cpp) 
+- [Job Sequencing Problem [CPP]](Job_Sequencing_Problem.cpp)
 - [K largest elements [CPP]](K_largest_elements.cpp)
 - [Kth-ancestor of a node in binary tree [CPP]](Kth-ancestor_of_a_node_in_binary_tree.cpp)
 - [Kth Smallest Largest Element using HEAP [CPP]](Kth_Smallest-Largest_Element_HEAP.cpp)
