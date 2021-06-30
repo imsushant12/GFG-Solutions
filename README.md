@@ -89,6 +89,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Mirror of binary tree [CPP]](Mirror_of_binary_tree.cpp)
 - [Move last element to front of given Linked List [CPP]](Move_last_element_to_front_of_given_Linked_List.cpp)
 - [Multiply two linked lists [CPP]](Multiply_two_linked_lists.cpp)
+- [N meetings in one room [CPP]](N-meetings_in_one_room.cpp)
 - [Nth node from end of linked list [CPP]](Nth_node_from_end_of_linked_list.cpp)
 - [Number of 1 Bits [CPP]](Number_of_1_Bits.cpp)
 - [Pairs with given sum in doubly linked list [CPP]](Pairs_with_given_sum_in_doubly_linked_list.cpp)
