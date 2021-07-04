@@ -117,7 +117,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Print nodes between two given levels of Binary Tree [CPP]](Print_nodes_between_two_given_levels_of_Binary_Tree.cpp)
 - [Print nodes between two given levels of Binary Tree using Queue [CPP]](Print_nodes_between_two_given_levels_of_Binary_Tree_using_Queue.cpp)
 - [Quick Sort on Linked List [CPP]](Quick_Sort_on_Linked_List.cpp)
-- [Remove_duplicate_element from sorted Linked List [CPP]](Remove_duplicate_element_from_sorted_Linked_List.cpp)
+- [Remove duplicate element from sorted Linked List [CPP]](Remove_duplicate_element_from_sorted_Linked_List.cpp)
 - [Remove duplicates from an unsorted linked list [CPP]](Remove_duplicates_from_an_unsorted_linked_list.cpp)
 - [Remove loop in Linked List [CPP]](Remove_loop_in_Linked_List.cpp)
 - [Replace Element with Greatest Element on its Right [CPP]](Replace_Element_with_Greatest_Element_on_its_Right.cpp)
