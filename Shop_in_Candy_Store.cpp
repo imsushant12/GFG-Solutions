@@ -1,6 +1,6 @@
 /*
 Problem Statement:
-------------------
+-----------------
 In a candy store, there are N different types of candies available and the prices of all the N different types of candies are provided to you.
 You are now provided with an attractive offer.
 You can buy a single candy from the store and get at most K other candies ( all are different types ) for free.
