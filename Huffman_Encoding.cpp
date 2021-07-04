@@ -1,6 +1,6 @@
 /*
 Problem Statement:
-------------------
+-----------------
 Given a string S of distinct character of size N and their corresponding frequency f[ ] i.e. character S[i] has f[i] frequency. 
 Your task is to build the Huffman tree print all the huffman codes in preorder traversal of the tree.
 Note: If two elements have same frequency, then the element which occur at first will be taken on the left of Binary Tree and other one to the right.
