@@ -1,6 +1,6 @@
 /*
 Problem Statement:
------------------
+------------------
 Given an array, we need to find the maximum sum of absolute difference of any permutation of the given array.
 Examples: 
 ---------
