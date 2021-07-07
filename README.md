@@ -47,7 +47,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Duplicate subtree in Binary Tree [CPP]](Duplicate_subtree_in_Binary_Tree.cpp) 
 - [Factorials of large numbers [CPP]](Factorials_of_large_numbers.cpp)
 - [Find Missing And Repeating [CPP]](Find_Missing_And_Repeating.cpp)
-- [Given n appointments, find all conflicting appointments](Find_all_conflicting_appointments_out_of_N.cpp)
+- [Given n appointments, find all conflicting appointments [CPP]](Find_all_conflicting_appointments_out_of_N.cpp)
 - [Find duplicates in an array [CPP]](Find_duplicates_in_an_array.cpp)
 - [Find largest subtree sum in a tree [CPP]](Find_largest_subtree_sum_in_a_tree.cpp)
 - [Find maximum meetings in one room-Greddy [CPP]](Find_maximum_meetings_in_one_room-Greddy.cpp)
