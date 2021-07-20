@@ -100,6 +100,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Minimum Cost to cut board into squares [CPP]](Minimum_Cost_to_cut_board_into_squares.cpp)
 - [Minimum Platforms [CPP]](Minimum_Platforms.cpp)
 - [Minimum element in BST [CPP]](Minimum_element_in_BST.cpp)
+- [Minimum sum of absolute difference of pairs of two arrays [CPP]](Minimum_sum_of_absolute_difference_of_pairs_of_two_arrays.cpp)
 - [Minimum swap required to convert binary tree to binary search tree[CPP]](Minimum_swap_required_to_convert_binary_tree_to_binary_search_tree.cpp)
 - [Mirror of binary tree [CPP]](Mirror_of_binary_tree.cpp)
 - [Move last element to front of given Linked List [CPP]](Move_last_element_to_front_of_given_Linked_List.cpp)
