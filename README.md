@@ -51,6 +51,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find duplicates in an array [CPP]](Find_duplicates_in_an_array.cpp)
 - [Find largest subtree sum in a tree [CPP]](Find_largest_subtree_sum_in_a_tree.cpp)
 - [Find maximum meetings in one room-Greddy [CPP]](Find_maximum_meetings_in_one_room-Greddy.cpp)
+- [Find maximum sum possible equal sum of three stacks [CPP]](Find_maximum_sum_possible_equal_sum_of_three_stacks.cpp)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X [CPP]](First_and_last_occurrences_of_X.cpp)
 - [First node of loop in list [CPP]](First_node_of_loop_in_list.cpp)
