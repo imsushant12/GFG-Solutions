@@ -1,6 +1,6 @@
 /*
 Problem Statement:
-------------------
+-------------------
 Given a stack S and an integer N, the task is to insert N at the bottom of the stack.
 
 Examples:
