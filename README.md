@@ -87,7 +87,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Lowest Common Ancestor in a Binary Tree [CPP]](Lowest_Common_Ancestor_in_a_Binary_Tree.cpp)
 - [Maximize sum arr[i]xi of an Array [CPP]](Maximize_sum-[arr[i]*i]_of_an_Array.cpp)
 - [Maximize sum after K negations [CPP]](Maximize_sum_after_K-negations.cpp)
-- [Maximum Rectangular Area in a Histogram [CPP]](Maximum Rectangular_Area_in_a_Histogram.cpp)
+- [Maximum Rectangular Area in a Histogram [CPP]](Maximum_Rectangular_Area_in_a_Histogram.cpp)
 - [Maximum Stocks if i stocks to be bought on i-th day [CPP]](Maximum_Stocks_if_i_stocks_bought_on_i-th_day.cpp)
 - [Maximum and Minimum of Array Elements [CPP]](Maximum_and_Minimum_of_Array_Elements.cpp)
 - [Maximum level sum in Binary Tree [CPP]](Maximum_level_sum_in_Binary_Tree.cpp)
