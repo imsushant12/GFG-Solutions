@@ -159,6 +159,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Split a Circular Linked List into two halves [CPP]](Split_a_Circular_Linked_List_into_two_halves.cpp)
 - [Stack using two queues [CPP]](Stack_using_two_queues.cpp)
 - [Stack with operations on middle element [CPP]](Stack_with_operations_on_middle_element.cpp)
+- [Steps by Knight [CPP]](Steps_by_Knight.cpp)
 - [String is a valid shuffle of 2 strings or not [CPP]](String_is_a_valid_shuffle_of_2_strings_or_not.cpp)
 - [String is shuffled substring of other string [CPP]](String_is_shuffled_substring_of_other_string.cpp)
 - [Sum Tree [CPP]](Sum_Tree.cpp)
