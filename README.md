@@ -168,6 +168,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [The Celebrity Problem [CPP]](The_Celebrity_Problem.cpp)
 - [Top View of Binary Tree [CPP]](Top_View_of_Binary_Tree.cpp)
 - [Top View of a Binary Tree [CPP]](Top_View_of_a_Binary_Tree.cpp)
+- [Topological Sort [CPP]](Topological_Sort.cpp)
 - [Transform to Sum Tree [CPP]](Transform_to_Sum_Tree.cpp)
 - [Triplet Sum in Array [CPP]](Triplet_Sum_in_Array.cpp)
 - [Union of two arrays [CPP]](Union_of_two_arrays.cpp)
