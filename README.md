@@ -114,6 +114,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Move last element to front of given Linked List [CPP]](Move_last_element_to_front_of_given_Linked_List.cpp)
 - [Multiply two linked lists [CPP]](Multiply_two_linked_lists.cpp)
 - [N meetings in one room [CPP]](N-meetings_in_one_room.cpp)
+- [Negative weight cycle or BellmanFord Algorithm [JAVA]](Negative_weight_cycle.cpp)
 - [Next Greater Element [CPP]](Next_Greater_Element.cpp)
 - [Nth node from end of linked list [CPP]](Nth_node_from_end_of_linked_list.cpp)
 - [Number of 1 Bits [CPP]](Number_of_1_Bits.cpp)
