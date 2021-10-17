@@ -12,6 +12,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Binary Tree to BST [CPP]](Binary_Tree_to_BST.cpp)
 - [Binary Tree to DLL [CPP]](Binary_Tree_to_DLL.cpp)
 - [Binary Tree to DLL [JAVA]](Binary_Tree_to_DLL.java)
+- [Bipartite Graph [CPP]](Bipartite_Graph.cpp)
 - [Bottom View of Binary Tree [CPP]](Bottom_View_of_Binary_Tree.cpp)
 - [Boundary Traversal of binary tree [CPP]](Boundary_Traversal_of_binary_tree.cpp)
 - [Brothers From Different Roots [CPP]](Brothers_from_Different_Roots.cpp)
