@@ -181,6 +181,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
 - [Valid Substring [CPP]](Valid_Substring.cpp)
 - [Value equal to Index value [CPP]](Value_equal_to_Index_value.cpp)
+- [Zero Sum Subarrays [CPP]](Zero_Sum_Subarrays.cpp)
 - [ZigZag Tree Traversal [CPP]](ZigZag_Tree_Traversal.cpp) 
 
 
