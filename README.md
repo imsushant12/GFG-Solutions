@@ -151,6 +151,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Reverse a string using Stack [CPP]](Reverse_a_string_using_Stack.cpp)
 - [Right View of Binary Tre [CPP]](Right_View_of_Binary_Tre.cpp)
 - [Rotate Doubly linked list by N nodes [CPP]](Rotate_Doubly_linked_list_by_N_nodes.cpp)
+- [Second Largest [CPP]](Second_largest.cpp)
 - [Segregate even and odd nodes in a Link List [CPP]](Segregate_even_and_odd_nodes_in_a_Link_List.cpp)
 - [Shop in Candy Store [CPP]](Shop_in_Candy_Store.cpp)
 - [Smallest number [CPP]](Smallest_number.cpp)
